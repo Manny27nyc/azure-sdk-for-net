@@ -48,5 +48,5 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a"
+	// "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {}
 }
